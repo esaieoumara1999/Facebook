@@ -1,0 +1,22 @@
+header{
+    background-color: #405E9A;
+}
+body{
+    background-color: #edf0f5;
+    font-family: verdana;
+}
+h2{
+    color: rgb(247, 241, 241);
+    padding-left: 3em;
+    padding-top: 17px;
+    padding-right: 500px;
+}
+.blue{
+    color: #3A5B99;
+}
+.lab{
+    color: #FFFFFF;
+}
+.see{
+    font-weight: bold;
+}
